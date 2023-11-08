@@ -29,6 +29,7 @@ To use the UDP Chat Application, follow these steps:
 ### Server
 1. Run the server by specifying the desired port:
 
+
 ```python UDPClient.py -s <Port>```
 
 **OR**
@@ -56,6 +57,11 @@ In addition to the test cases provided in the PA1 handout, two additional test c
 ## Performance Considerations
 
 The application has been optimized to ensure smooth performance. However, if you experience any performance issues or notice jumbled output, please report them for further investigation.
+
+## License
+
+This project is licensed under the [MIT License] - see the [LICENSE.md](LICENSE.md) file for details.
+
 
 ## Author and Contact
 
